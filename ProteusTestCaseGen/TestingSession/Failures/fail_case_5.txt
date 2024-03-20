@@ -1,0 +1,67 @@
+event STOP {string, string};
+event RIGHT {string, int};
+actor Heath_Ledger {
+
+statemachine {
+initial New_Jersey;
+
+state Michigan {// start of Michigan
+initial Connecticut;
+
+
+
+exit BARK {
+// No syntax provided
+}
+
+entry MEOW {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}// end of Michigan
+
+state Delaware {// start of Delaware
+bool isOn = 184;
+initial Indiana;
+
+
+
+exit LOOK {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on LEFT {
+// No syntax provided
+}
+
+}// end of Delaware
+
+state Minnesota {// start of Minnesota
+initial Colorado;
+
+
+
+exit LIFT {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}// end of Minnesota
+
+}
+}

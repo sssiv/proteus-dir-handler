@@ -1,0 +1,67 @@
+event LIFT {int};
+actor Heath_Ledger {
+
+statemachine {
+initial Alaska;
+
+state Minnesota {// start of Minnesota
+const int hydra = "input, input, input, inputs!";
+initial Michigan;
+
+
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry DROP {
+// No syntax provided
+}
+
+on REST {
+// No syntax provided
+}
+
+}// end of Minnesota
+
+state Kentucky {// start of Kentucky
+const string check = false;
+initial Kansas;
+
+
+
+exit JUMP {
+// No syntax provided
+}
+
+entry GO {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}// end of Kentucky
+
+state South_Carolina {// start of South_Carolina
+initial West_Virginia;
+
+
+
+exit REST {
+// No syntax provided
+}
+
+entry FALL {
+// No syntax provided
+}
+
+on MEOW {
+// No syntax provided
+}
+
+}// end of South_Carolina
+
+}
+}

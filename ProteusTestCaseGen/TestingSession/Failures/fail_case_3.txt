@@ -1,0 +1,85 @@
+event TERMINATE {};
+event GO {};
+actor Christoph_Waltz {
+
+statemachine {
+initial Hawaii;
+
+state Arizona {// start of Arizona
+initial New_York;
+
+
+
+exit MEOW {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on RIGHT {
+// No syntax provided
+}
+
+}// end of Arizona
+
+state Mississippi {// start of Mississippi
+initial Massachusetts;
+
+
+
+exit SAVE {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}// end of Mississippi
+
+state Colorado {// start of Colorado
+initial New_York;
+
+
+
+exit SHOVE {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on TERMINATE {
+// No syntax provided
+}
+
+}// end of Colorado
+
+state Vermont {// start of Vermont
+initial California;
+
+
+
+exit LIFT {
+// No syntax provided
+}
+
+entry BARK {
+// No syntax provided
+}
+
+on JUMP {
+// No syntax provided
+}
+
+}// end of Vermont
+
+}
+}

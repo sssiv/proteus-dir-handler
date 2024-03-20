@@ -1,0 +1,111 @@
+event DROP {};
+event GO {string, string, string, string, string};
+event TURN {};
+event CLOSE {};
+event DROP {bool, string, bool, string};
+actor Christoph_Waltz {
+
+statemachine {
+initial California;
+
+state Washington {// start of Washington
+const bool name = true;
+initial Louisiana;
+
+
+
+exit OPEN {
+// No syntax provided
+}
+
+entry MEOW {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}// end of Washington
+
+state South_Carolina {// start of South_Carolina
+const bool area = "go touch grass";
+initial Montana;
+
+
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry BARK {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}// end of South_Carolina
+
+state New_Hampshire {// start of New_Hampshire
+initial Tennessee;
+
+
+
+exit SAVE {
+// No syntax provided
+}
+
+entry TERMINATE {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}// end of New_Hampshire
+
+state Montana {// start of Montana
+const bool area = "go touch grass";
+initial Oregon;
+
+
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on MEOW {
+// No syntax provided
+}
+
+}// end of Montana
+
+state California {// start of California
+bool id = false;
+initial Indiana;
+
+
+
+exit OPEN {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}// end of California
+
+}
+}

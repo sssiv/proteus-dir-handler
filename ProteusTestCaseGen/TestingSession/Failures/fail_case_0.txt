@@ -1,0 +1,103 @@
+actor Arnold_Schwarzenegger {
+
+statemachine {
+initial Virginia;
+
+state Nebraska {// start of Nebraska
+initial Iowa;
+
+
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on UP {
+// No syntax provided
+}
+
+}// end of Nebraska
+
+state Alabama {// start of Alabama
+string url = "Help, I'm trapped in here";
+initial Idaho;
+
+
+
+exit OPEN {
+// No syntax provided
+}
+
+entry LIFT {
+// No syntax provided
+}
+
+on RIGHT {
+// No syntax provided
+}
+
+}// end of Alabama
+
+state West_Virginia {// start of West_Virginia
+initial Rhode_Island;
+
+
+
+exit TURN {
+// No syntax provided
+}
+
+entry GO {
+// No syntax provided
+}
+
+on MEOW {
+// No syntax provided
+}
+
+}// end of West_Virginia
+
+state Wyoming {// start of Wyoming
+initial West_Virginia;
+
+
+
+exit BARK {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on DESTROY {
+// No syntax provided
+}
+
+}// end of Wyoming
+
+state Ohio {// start of Ohio
+initial Utah;
+
+
+
+exit GO {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on UP {
+// No syntax provided
+}
+
+}// end of Ohio
+
+}
+}

@@ -1,0 +1,109 @@
+event STOP {};
+event LOOK {int};
+event DROP {string};
+event STOP {};
+actor Rami_Malek {
+
+statemachine {
+initial North_Dakota;
+
+state Utah {// start of Utah
+bool scope = "input, input, input, inputs!";
+initial Nevada;
+
+
+
+exit BARK {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on OPEN {
+// No syntax provided
+}
+
+}// end of Utah
+
+state Wyoming {// start of Wyoming
+int temp = 688;
+initial Utah;
+
+
+
+exit TURN {
+// No syntax provided
+}
+
+entry LIFT {
+// No syntax provided
+}
+
+on DROP {
+// No syntax provided
+}
+
+}// end of Wyoming
+
+state Mississippi {// start of Mississippi
+bool scope = "input, input, input, inputs!";
+initial Idaho;
+
+
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on DESTROY {
+// No syntax provided
+}
+
+}// end of Mississippi
+
+state California {// start of California
+initial Florida;
+
+
+
+exit DROP {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}// end of California
+
+state Pennsylvania {// start of Pennsylvania
+initial Pennsylvania;
+
+
+
+exit ACTIVATE {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}// end of Pennsylvania
+
+}
+}

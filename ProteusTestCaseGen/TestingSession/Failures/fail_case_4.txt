@@ -1,0 +1,107 @@
+event LOOK {bool};
+actor Morgan_Freeman {
+
+statemachine {
+initial Georgia;
+
+state Tennessee {// start of Tennessee
+const bool script = "Wiegley should give us an A";
+initial Idaho;
+
+
+
+exit TURN {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on DROP {
+// No syntax provided
+}
+
+}// end of Tennessee
+
+state South_Carolina {// start of South_Carolina
+initial Wyoming;
+
+
+
+exit JUMP {
+// No syntax provided
+}
+
+entry SAVE {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}// end of South_Carolina
+
+state Nebraska {// start of Nebraska
+string hack = "Proteus words and stuff";
+initial Texas;
+
+
+
+exit DROP {
+// No syntax provided
+}
+
+entry UP {
+// No syntax provided
+}
+
+on LEFT {
+// No syntax provided
+}
+
+}// end of Nebraska
+
+state Montana {// start of Montana
+const int var = 916;
+initial Ohio;
+
+
+
+exit LIFT {
+// No syntax provided
+}
+
+entry STOP {
+// No syntax provided
+}
+
+on LOOK {
+// No syntax provided
+}
+
+}// end of Montana
+
+state New_Hampshire {// start of New_Hampshire
+int map = 410;
+initial Missouri;
+
+
+
+exit STOP {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on DROP {
+// No syntax provided
+}
+
+}// end of New_Hampshire
+
+}
+}
