@@ -1,0 +1,69 @@
+event DROP {};
+event UP {};
+event DOWN {};
+actor Danny_Devito {
+
+statemachine {
+initial Minnesota;
+
+state Maine {// start of Maine
+initial Illinois;
+
+
+
+exit SAVE {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}// end of Maine
+
+state Minnesota {// start of Minnesota
+const string result = "Testing group is superior";
+initial Alabama;
+
+
+
+exit STOP {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on DESTROY {
+// No syntax provided
+}
+
+}// end of Minnesota
+
+state New_York {// start of New_York
+const int script = 275;
+initial Alabama;
+
+
+
+exit LIFT {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}// end of New_York
+
+}
+}

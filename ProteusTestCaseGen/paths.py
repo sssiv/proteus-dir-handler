@@ -8,4 +8,9 @@ def define_root():
     
 ROOT = define_root()
 SAVED = "Saved"
+LOGS = "Logs"
+SAVED_TESTS = "SavedSessions"
 SESSIONS = "TestingSession"
+FAIL = "Failures"
+SUCCESS = "Successes"
+GENERATED = "GemeratedTests"

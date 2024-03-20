@@ -1,0 +1,48 @@
+event FALL {};
+event STOP {};
+event OPEN {};
+actor Henry_Cavill {
+
+statemachine {
+initial North_Carolina;
+
+state South_Dakota {// start of South_Dakota
+initial Illinois;
+
+
+
+exit DOWN {
+// No syntax provided
+}
+
+entry DROP {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}// end of South_Dakota
+
+state Maine {// start of Maine
+initial Arizona;
+
+
+
+exit SHOVE {
+// No syntax provided
+}
+
+entry MEOW {
+// No syntax provided
+}
+
+on JUMP {
+// No syntax provided
+}
+
+}// end of Maine
+
+}
+}

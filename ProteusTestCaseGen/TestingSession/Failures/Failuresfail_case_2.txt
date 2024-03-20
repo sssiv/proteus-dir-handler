@@ -1,0 +1,50 @@
+event SHOVE {};
+event JUMP {bool, int, string};
+event GO {string, bool};
+event MEOW {bool};
+actor Christoph_Waltz {
+
+statemachine {
+initial Iowa;
+
+state Texas {// start of Texas
+initial Indiana;
+
+
+
+exit OPEN {
+// No syntax provided
+}
+
+entry GO {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}// end of Texas
+
+state New_York {// start of New_York
+int check = 354;
+initial Oregon;
+
+
+
+exit TURN {
+// No syntax provided
+}
+
+entry STOP {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}// end of New_York
+
+}
+}
