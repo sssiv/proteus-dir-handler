@@ -1,0 +1,103 @@
+event CLOSE {};
+event UP {int, bool, bool, bool};
+event LIFT {};
+event JUMP {};
+
+actor Henry_Cavill {
+
+statemachine {
+initial Alabama;
+
+state Montana {// start of Montana
+initial Louisiana;
+
+// Function
+exit MEOW {
+// No syntax provided
+}
+
+entry TERMINATE {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}// end of Montana
+
+state Washington {// start of Washington
+initial Vermont;
+
+// Function
+exit DROP {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}// end of Washington
+
+state Ohio {// start of Ohio
+initial New_Mexico;
+
+// Function
+exit DESTROY {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}// end of Ohio
+
+state South_Carolina {// start of South_Carolina
+string scope = "go touch grass";
+initial New_Mexico;
+
+// Function
+exit MEOW {
+// No syntax provided
+}
+
+entry GO {
+// No syntax provided
+}
+
+on DOWN {
+// No syntax provided
+}
+
+}// end of South_Carolina
+
+state Minnesota {// start of Minnesota
+initial Delaware;
+
+// Function
+exit LEFT {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on REST {
+// No syntax provided
+}
+
+}// end of Minnesota
+
+}
+}

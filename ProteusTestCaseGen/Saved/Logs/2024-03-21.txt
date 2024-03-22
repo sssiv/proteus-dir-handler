@@ -1,0 +1,30 @@
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: failure_1.txt, failure_10.txt, failure_11.txt, failure_12.txt, failure_13.txt
+File Created: failure_14.txt, failure_15.txt, failure_16.txt, failure_17.txt, failure_18.txt
+File Created: failure_19.txt, failure_2.txt, failure_20.txt, failure_3.txt, failure_4.txt
+File Created: failure_5.txt, failure_6.txt, failure_7.txt, failure_8.txt, failure_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: failure_1.txt, failure_10.txt, failure_11.txt, failure_12.txt, failure_13.txt
+File Deleted: failure_14.txt, failure_15.txt, failure_16.txt, failure_17.txt, failure_18.txt
+File Deleted: failure_19.txt, failure_2.txt, failure_20.txt, failure_3.txt, failure_4.txt
+File Deleted: failure_5.txt, failure_6.txt, failure_7.txt, failure_8.txt, failure_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: skill_issue_1.txt, skill_issue_10.txt, skill_issue_2.txt, skill_issue_3.txt, skill_issue_4.txt
+File Created: skill_issue_5.txt, skill_issue_6.txt, skill_issue_7.txt, skill_issue_8.txt, skill_issue_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+

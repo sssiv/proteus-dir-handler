@@ -1,0 +1,102 @@
+event CLOSE {bool, int, string};
+event LOOK {};
+
+actor Tom_Hanks {
+
+statemachine {
+initial Indiana;
+
+state Arizona {// start of Arizona
+initial New_York;
+
+// Function
+exit ACTIVATE {
+// No syntax provided
+}
+
+entry ACTIVATE {
+// No syntax provided
+}
+
+on TERMINATE {
+// No syntax provided
+}
+
+}// end of Arizona
+
+state Rhode_Island {// start of Rhode_Island
+bool result = "Help, I'm trapped in here";
+initial North_Carolina;
+
+// Function
+exit UP {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}// end of Rhode_Island
+
+state California {// start of California
+initial North_Dakota;
+
+// Function
+exit LIFT {
+// No syntax provided
+}
+
+entry TERMINATE {
+// No syntax provided
+}
+
+on DESTROY {
+// No syntax provided
+}
+
+}// end of California
+
+state Delaware {// start of Delaware
+bool flag = true;
+initial Louisiana;
+
+// Function
+exit SAVE {
+// No syntax provided
+}
+
+entry TURN {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}// end of Delaware
+
+state Wyoming {// start of Wyoming
+initial West_Virginia;
+
+// Function
+exit TURN {
+// No syntax provided
+}
+
+entry ACTIVATE {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}// end of Wyoming
+
+}
+}

@@ -1,0 +1,46 @@
+
+actor Heath_Ledger {
+
+statemachine {
+initial South_Dakota;
+
+state New_York {// start of New_York
+const int isOff = 980;
+initial Alabama;
+
+// Function
+exit BARK {
+// No syntax provided
+}
+
+entry CLOSE {
+// No syntax provided
+}
+
+on RIGHT {
+// No syntax provided
+}
+
+}// end of New_York
+
+state Missouri {// start of Missouri
+int isOff = false;
+initial Washington;
+
+// Function
+exit SHOVE {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on OPEN {
+// No syntax provided
+}
+
+}// end of Missouri
+
+}
+}
