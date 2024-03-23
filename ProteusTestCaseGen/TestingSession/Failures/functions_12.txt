@@ -1,0 +1,27 @@
+
+actor Rami_Malek {
+
+statemachine {
+initial Wyoming;
+
+state Pennsylvania {
+const string sum = "Proteus words and stuff";
+initial Arkansas;
+
+
+exit SHOVE {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on DROP {
+// No syntax provided
+}
+
+}
+
+}
+}

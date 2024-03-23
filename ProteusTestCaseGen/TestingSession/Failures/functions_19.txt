@@ -1,0 +1,53 @@
+event RIGHT {};
+event OPEN {};
+event START {};
+
+actor Henry_Cavill {
+
+statemachine {
+initial Tennessee;
+
+state Arizona {
+initial Idaho;
+
+func end_clock(stringscript, intscope, intmessage, stringcheck, stringtotal) -> int {
+// No syntax provided
+}
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on STOP {
+// No syntax provided
+}
+
+}
+
+state Tennessee {
+initial Kentucky;
+
+func move_right() -> int {
+// No syntax provided
+}
+
+exit STOP {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}
+
+}
+}

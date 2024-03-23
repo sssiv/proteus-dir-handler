@@ -1,0 +1,28 @@
+event LIFT {int, string, string, int, bool};
+event SAVE {int, bool, bool, string};
+
+actor Danny_Devito {
+
+statemachine {
+initial New_Hampshire;
+
+state Maryland {
+initial Michigan;
+
+
+exit RESET {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on LOOK {
+// No syntax provided
+}
+
+}
+
+}
+}

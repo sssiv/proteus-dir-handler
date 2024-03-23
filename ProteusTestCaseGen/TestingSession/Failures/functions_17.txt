@@ -1,0 +1,92 @@
+
+actor Arnold_Schwarzenegger {
+
+statemachine {
+initial Vermont;
+
+state Idaho {
+const string total = false;
+initial Florida;
+
+func delete_this() -> int {
+// No syntax provided
+}
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on JUMP {
+// No syntax provided
+}
+
+}
+
+state Kentucky {
+const int id = false;
+initial North_Carolina;
+
+func move_down(stringtotal, booltotal, boolhack, stringcount) -> string {
+// No syntax provided
+}
+
+exit SAVE {
+// No syntax provided
+}
+
+entry FALL {
+// No syntax provided
+}
+
+on LEFT {
+// No syntax provided
+}
+
+}
+
+state Illinois {
+initial Georgia;
+
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry LEFT {
+// No syntax provided
+}
+
+on TERMINATE {
+// No syntax provided
+}
+
+}
+
+state Arkansas {
+bool area = 672;
+initial Iowa;
+
+func job_finder(stringdata, boolvar) -> int {
+// No syntax provided
+}
+
+exit UP {
+// No syntax provided
+}
+
+entry GO {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}
+
+}
+}

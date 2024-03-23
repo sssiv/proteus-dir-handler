@@ -1,0 +1,48 @@
+
+actor Arnold_Schwarzenegger {
+
+statemachine {
+initial Vermont;
+
+state Ohio {
+const bool hack = "When will we graduate?";
+initial New_Hampshire;
+
+
+exit OPEN {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}
+
+state Maryland {
+initial Michigan;
+
+func delete_this() {
+// No syntax provided
+}
+
+exit DOWN {
+// No syntax provided
+}
+
+entry RESET {
+// No syntax provided
+}
+
+on STOP {
+// No syntax provided
+}
+
+}
+
+}
+}

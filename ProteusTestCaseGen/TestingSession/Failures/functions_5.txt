@@ -1,0 +1,92 @@
+event RESET {int, int, bool, string};
+event MEOW {int};
+event RIGHT {};
+
+actor Heath_Ledger {
+
+statemachine {
+initial Arkansas;
+
+state Massachusetts {
+initial Arizona;
+
+func move_down(intnikto, stringhydra, intresult, stringindex, boolhack) -> int {
+// No syntax provided
+}
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on MEOW {
+// No syntax provided
+}
+
+}
+
+state Nebraska {
+initial Mississippi;
+
+func move_right(boolid, intsum, boolisOn, intscope, stringarea) {
+// No syntax provided
+}
+
+exit STOP {
+// No syntax provided
+}
+
+entry LEFT {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}
+
+state South_Carolina {
+initial Wyoming;
+
+
+exit FALL {
+// No syntax provided
+}
+
+entry RIGHT {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}
+
+state Rhode_Island {
+initial North_Carolina;
+
+func move_down() {
+// No syntax provided
+}
+
+exit REST {
+// No syntax provided
+}
+
+entry CLOSE {
+// No syntax provided
+}
+
+on MEOW {
+// No syntax provided
+}
+
+}
+
+}
+}

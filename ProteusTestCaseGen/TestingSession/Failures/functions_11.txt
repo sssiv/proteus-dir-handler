@@ -1,0 +1,33 @@
+event CLOSE {bool, bool, bool, bool};
+event ACTIVATE {};
+event BARK {};
+
+actor Quentin_Tarantino {
+
+statemachine {
+initial Nevada;
+
+state Hawaii {
+bool map = true;
+initial Minnesota;
+
+func start_clock() {
+// No syntax provided
+}
+
+exit RESET {
+// No syntax provided
+}
+
+entry LIFT {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}
+
+}
+}

@@ -1,0 +1,32 @@
+event ACTIVATE {};
+event TURN {};
+
+actor Daniel_Radcliffe {
+
+statemachine {
+initial Pennsylvania;
+
+state Maryland {
+const string numOfThings = "Wiegley should give us an A";
+initial Nevada;
+
+func job_finder() {
+// No syntax provided
+}
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry MEOW {
+// No syntax provided
+}
+
+on LIFT {
+// No syntax provided
+}
+
+}
+
+}
+}

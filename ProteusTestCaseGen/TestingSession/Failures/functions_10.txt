@@ -1,0 +1,47 @@
+event START {};
+
+actor Rami_Malek {
+
+statemachine {
+initial Iowa;
+
+state Louisiana {
+const int url = 98;
+initial Montana;
+
+
+exit DROP {
+// No syntax provided
+}
+
+entry LEFT {
+// No syntax provided
+}
+
+on START {
+// No syntax provided
+}
+
+}
+
+state Washington {
+const int result = 183;
+initial Virginia;
+
+
+exit DROP {
+// No syntax provided
+}
+
+entry SAVE {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}
+
+}
+}

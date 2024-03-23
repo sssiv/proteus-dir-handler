@@ -1,0 +1,86 @@
+event SAVE {bool, bool, int, bool, string};
+event DROP {bool, int, int};
+
+actor Daniel_Radcliffe {
+
+statemachine {
+initial Virginia;
+
+state Montana {
+initial Arkansas;
+
+func start_clock(stringsomething) -> bool {
+// No syntax provided
+}
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry STOP {
+// No syntax provided
+}
+
+on OPEN {
+// No syntax provided
+}
+
+}
+
+state North_Carolina {
+int nikto = 3;
+initial New_York;
+
+
+exit START {
+// No syntax provided
+}
+
+entry SAVE {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}
+
+state Michigan {
+initial Minnesota;
+
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}
+
+state Nevada {
+initial Nevada;
+
+
+exit UP {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}
+
+}
+}

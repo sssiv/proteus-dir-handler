@@ -1,0 +1,87 @@
+event SAVE {bool, string, bool};
+
+actor Danny_Devito {
+
+statemachine {
+initial New_Hampshire;
+
+state South_Dakota {
+int total = false;
+initial Pennsylvania;
+
+func meme_generator(stringhydra, boolscript, stringmap, inturl, intid) {
+// No syntax provided
+}
+
+exit START {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on START {
+// No syntax provided
+}
+
+}
+
+state Alabama {
+const int nikto = "Help, I'm trapped in here";
+initial New_Hampshire;
+
+
+exit DOWN {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on STOP {
+// No syntax provided
+}
+
+}
+
+state Massachusetts {
+initial Michigan;
+
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on REST {
+// No syntax provided
+}
+
+}
+
+state Florida {
+const int nikto = "Help, I'm trapped in here";
+initial Illinois;
+
+
+exit UP {
+// No syntax provided
+}
+
+entry TURN {
+// No syntax provided
+}
+
+on BARK {
+// No syntax provided
+}
+
+}
+
+}
+}

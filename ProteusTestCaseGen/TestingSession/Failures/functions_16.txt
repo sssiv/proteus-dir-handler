@@ -1,0 +1,72 @@
+event SAVE {};
+event UP {string, string, string};
+event LOOK {};
+event LIFT {};
+
+actor Arnold_Schwarzenegger {
+
+statemachine {
+initial Hawaii;
+
+state Arkansas {
+int count = 15;
+initial Pennsylvania;
+
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}
+
+state Oklahoma {
+int count = 15;
+initial Idaho;
+
+func move_down(stringname, intvar) -> string {
+// No syntax provided
+}
+
+exit ACTIVATE {
+// No syntax provided
+}
+
+entry LIFT {
+// No syntax provided
+}
+
+on UP {
+// No syntax provided
+}
+
+}
+
+state Missouri {
+int count = 15;
+initial Louisiana;
+
+
+exit LOOK {
+// No syntax provided
+}
+
+entry RIGHT {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}
+
+}
+}

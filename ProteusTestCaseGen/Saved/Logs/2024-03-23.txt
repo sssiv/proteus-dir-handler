@@ -1,0 +1,86 @@
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: skill_issue_1.txt, skill_issue_10.txt, skill_issue_2.txt, skill_issue_3.txt, skill_issue_4.txt
+File Deleted: skill_issue_5.txt, skill_issue_6.txt, skill_issue_7.txt, skill_issue_8.txt, skill_issue_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: today_1.txt, today_10.txt, today_11.txt, today_12.txt, today_13.txt
+File Created: today_14.txt, today_15.txt, today_16.txt, today_17.txt, today_18.txt
+File Created: today_19.txt, today_2.txt, today_20.txt, today_3.txt, today_4.txt
+File Created: today_5.txt, today_6.txt, today_7.txt, today_8.txt, today_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: today_1.txt, today_10.txt, today_11.txt, today_12.txt, today_13.txt
+File Deleted: today_14.txt, today_15.txt, today_16.txt, today_17.txt, today_18.txt
+File Deleted: today_19.txt, today_2.txt, today_20.txt, today_3.txt, today_4.txt
+File Deleted: today_5.txt, today_6.txt, today_7.txt, today_8.txt, today_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: tests_1.txt, tests_10.txt, tests_11.txt, tests_12.txt, tests_13.txt
+File Created: tests_14.txt, tests_15.txt, tests_2.txt, tests_3.txt, tests_4.txt
+File Created: tests_5.txt, tests_6.txt, tests_7.txt, tests_8.txt, tests_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: tests_1.txt, tests_10.txt, tests_11.txt, tests_12.txt, tests_13.txt
+File Deleted: tests_14.txt, tests_15.txt, tests_2.txt, tests_3.txt, tests_4.txt
+File Deleted: tests_5.txt, tests_6.txt, tests_7.txt, tests_8.txt, tests_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: new_case_1.txt, new_case_10.txt, new_case_11.txt, new_case_12.txt, new_case_13.txt
+File Created: new_case_14.txt, new_case_15.txt, new_case_16.txt, new_case_17.txt, new_case_18.txt
+File Created: new_case_19.txt, new_case_2.txt, new_case_20.txt, new_case_21.txt, new_case_22.txt
+File Created: new_case_23.txt, new_case_24.txt, new_case_25.txt, new_case_26.txt, new_case_27.txt
+File Created: new_case_28.txt, new_case_29.txt, new_case_3.txt, new_case_30.txt, new_case_4.txt
+File Created: new_case_5.txt, new_case_6.txt, new_case_7.txt, new_case_8.txt, new_case_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: new_case_1.txt, new_case_10.txt, new_case_11.txt, new_case_12.txt, new_case_13.txt
+File Deleted: new_case_14.txt, new_case_15.txt, new_case_16.txt, new_case_17.txt, new_case_18.txt
+File Deleted: new_case_19.txt, new_case_2.txt, new_case_20.txt, new_case_21.txt, new_case_22.txt
+File Deleted: new_case_23.txt, new_case_24.txt, new_case_25.txt, new_case_26.txt, new_case_27.txt
+File Deleted: new_case_28.txt, new_case_29.txt, new_case_3.txt, new_case_30.txt, new_case_4.txt
+File Deleted: new_case_5.txt, new_case_6.txt, new_case_7.txt, new_case_8.txt, new_case_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: testing_1.txt, testing_10.txt, testing_2.txt, testing_3.txt, testing_4.txt
+File Created: testing_5.txt, testing_6.txt, testing_7.txt, testing_8.txt, testing_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Deleted From: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Deleted: testing_1.txt, testing_10.txt, testing_2.txt, testing_3.txt, testing_4.txt
+File Deleted: testing_5.txt, testing_6.txt, testing_7.txt, testing_8.txt, testing_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Written To: ..\ProteusTestCaseGen\TestingSession\Failures
+
+File Created: functions_1.txt, functions_10.txt, functions_11.txt, functions_12.txt, functions_13.txt
+File Created: functions_14.txt, functions_15.txt, functions_16.txt, functions_17.txt, functions_18.txt
+File Created: functions_19.txt, functions_2.txt, functions_20.txt, functions_3.txt, functions_4.txt
+File Created: functions_5.txt, functions_6.txt, functions_7.txt, functions_8.txt, functions_9.txt
+-----------------------------------------------------------------------------------------------------------------------------
+
+

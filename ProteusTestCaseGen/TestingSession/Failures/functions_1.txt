@@ -1,0 +1,68 @@
+event MEOW {};
+
+actor Rami_Malek {
+
+statemachine {
+initial Michigan;
+
+state Maryland {
+const bool var = true;
+initial Georgia;
+
+
+exit UP {
+// No syntax provided
+}
+
+entry MEOW {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}
+
+state Utah {
+string hydra = 454;
+initial Maryland;
+
+
+exit SHOVE {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on TERMINATE {
+// No syntax provided
+}
+
+}
+
+state Connecticut {
+initial Oklahoma;
+
+func move_right(stringmap, intmessage, stringkey) -> string {
+// No syntax provided
+}
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry ACTIVATE {
+// No syntax provided
+}
+
+on LEFT {
+// No syntax provided
+}
+
+}
+
+}
+}

@@ -1,0 +1,116 @@
+event RESET {};
+
+actor Quentin_Tarantino {
+
+statemachine {
+initial Colorado;
+
+state North_Carolina {
+const int message = 419;
+initial Pennsylvania;
+
+func turn_off(stringscope, boolid) {
+// No syntax provided
+}
+
+exit CLOSE {
+// No syntax provided
+}
+
+entry RESET {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}
+
+state Oregon {
+initial Iowa;
+
+func hack_the_bank(intvar, stringtimer) {
+// No syntax provided
+}
+
+exit CLOSE {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on DESTROY {
+// No syntax provided
+}
+
+}
+
+state Arkansas {
+initial Alabama;
+
+func start_clock() -> string {
+// No syntax provided
+}
+
+exit LIFT {
+// No syntax provided
+}
+
+entry RIGHT {
+// No syntax provided
+}
+
+on LEFT {
+// No syntax provided
+}
+
+}
+
+state South_Carolina {
+int id = 949;
+initial South_Carolina;
+
+func check_this() -> bool {
+// No syntax provided
+}
+
+exit LIFT {
+// No syntax provided
+}
+
+entry DESTROY {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}
+
+state Georgia {
+initial Kansas;
+
+func check_this(stringid) {
+// No syntax provided
+}
+
+exit TERMINATE {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on RIGHT {
+// No syntax provided
+}
+
+}
+
+}
+}

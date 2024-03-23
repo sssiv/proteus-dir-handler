@@ -1,0 +1,88 @@
+event START {};
+event RIGHT {string, string};
+event UP {};
+
+actor Henry_Cavill {
+
+statemachine {
+initial Indiana;
+
+state Mississippi {
+string config = "Proteus words and stuff";
+initial Georgia;
+
+
+exit FALL {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on DOWN {
+// No syntax provided
+}
+
+}
+
+state Michigan {
+initial Maine;
+
+
+exit STOP {
+// No syntax provided
+}
+
+entry LIFT {
+// No syntax provided
+}
+
+on CLOSE {
+// No syntax provided
+}
+
+}
+
+state Connecticut {
+int config = 821;
+initial Georgia;
+
+
+exit TURN {
+// No syntax provided
+}
+
+entry START {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}
+
+state Virginia {
+initial Florida;
+
+func turn_off() -> string {
+// No syntax provided
+}
+
+exit DOWN {
+// No syntax provided
+}
+
+entry JUMP {
+// No syntax provided
+}
+
+on REST {
+// No syntax provided
+}
+
+}
+
+}
+}

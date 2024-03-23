@@ -1,0 +1,76 @@
+event ACTIVATE {string, string, string};
+event DOWN {};
+event MEOW {};
+event TURN {string, string};
+event RESET {int, string};
+
+actor Morgan_Freeman {
+
+statemachine {
+initial Nevada;
+
+state New_Mexico {
+string check = "Wiegley should give us an A";
+initial Maryland;
+
+func move_right(stringredeem, boolvar) {
+// No syntax provided
+}
+
+exit DROP {
+// No syntax provided
+}
+
+entry CLOSE {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}
+
+state New_York {
+string area = "When will we graduate?";
+initial Georgia;
+
+func job_finder(stringitem, inturl, stringname, stringisOn, inttotal) -> bool {
+// No syntax provided
+}
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry LEFT {
+// No syntax provided
+}
+
+on SAVE {
+// No syntax provided
+}
+
+}
+
+state Nevada {
+string config = "debug this code for a prize";
+initial Delaware;
+
+
+exit DROP {
+// No syntax provided
+}
+
+entry DOWN {
+// No syntax provided
+}
+
+on FALL {
+// No syntax provided
+}
+
+}
+
+}
+}

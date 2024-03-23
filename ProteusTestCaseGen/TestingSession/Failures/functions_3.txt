@@ -1,0 +1,50 @@
+event REST {};
+event CLOSE {};
+event LEFT {};
+event START {};
+
+actor Samuel_L_Jackson {
+
+statemachine {
+initial Alabama;
+
+state Massachusetts {
+bool config = false;
+initial Arkansas;
+
+
+exit FALL {
+// No syntax provided
+}
+
+entry REST {
+// No syntax provided
+}
+
+on GO {
+// No syntax provided
+}
+
+}
+
+state Illinois {
+bool config = false;
+initial New_Jersey;
+
+
+exit RIGHT {
+// No syntax provided
+}
+
+entry FALL {
+// No syntax provided
+}
+
+on START {
+// No syntax provided
+}
+
+}
+
+}
+}

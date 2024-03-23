@@ -1,0 +1,50 @@
+
+actor Henry_Cavill {
+
+statemachine {
+initial New_Jersey;
+
+state Missouri {
+initial South_Carolina;
+
+func save_this() -> int {
+// No syntax provided
+}
+
+exit UP {
+// No syntax provided
+}
+
+entry OPEN {
+// No syntax provided
+}
+
+on TURN {
+// No syntax provided
+}
+
+}
+
+state Nevada {
+initial Pennsylvania;
+
+func delete_this() {
+// No syntax provided
+}
+
+exit JUMP {
+// No syntax provided
+}
+
+entry LOOK {
+// No syntax provided
+}
+
+on UP {
+// No syntax provided
+}
+
+}
+
+}
+}

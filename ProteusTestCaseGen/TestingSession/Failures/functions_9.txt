@@ -1,0 +1,56 @@
+event GO {};
+event SAVE {};
+event LEFT {};
+event SHOVE {};
+event DESTROY {bool, string, int, int};
+
+actor Daniel_Radcliffe {
+
+statemachine {
+initial Oregon;
+
+state Rhode_Island {
+initial Mississippi;
+
+func touch_grass(intresult) -> string {
+// No syntax provided
+}
+
+exit DESTROY {
+// No syntax provided
+}
+
+entry SHOVE {
+// No syntax provided
+}
+
+on CLOSE {
+// No syntax provided
+}
+
+}
+
+state Nebraska {
+int temp = 200;
+initial Florida;
+
+func turn_on() -> int {
+// No syntax provided
+}
+
+exit CLOSE {
+// No syntax provided
+}
+
+entry START {
+// No syntax provided
+}
+
+on SHOVE {
+// No syntax provided
+}
+
+}
+
+}
+}
